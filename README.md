@@ -1,6 +1,6 @@
 ## 💻 Projeto
 
-Clone da plataforma Discord.
+Clone da plataforma Twitter.
 
 ## ✨ Tecnologias
 
